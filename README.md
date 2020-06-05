@@ -71,7 +71,7 @@ cc -o client -lpthread -lcurses client.c
 # 游戏展示
 1. 玩家等待
 * 玩家1界面展示
-![image](IMG/pic-1.png){:height="50%" width="50%"}
+![image -w30](IMG/pic-1.png)
 
 2. 游戏进行
 * 玩家1界面展示
