@@ -69,3 +69,21 @@ cc -o client -lpthread -lcurses client.c
 8. 任意一方在游戏途中可按**q**键直接退出游戏。同一游戏房间内另外一名玩家的客户端将显示对手退出游戏的消息，游戏界面停止，按**q**可退出客户端。
 
 # 游戏展示
+1. 玩家等待
+* 玩家1界面展示
+![image](https://github.com/chinachinachina/moves-like-jagger/blob/master/IMG/pic-1.png)
+
+2. 游戏进行
+* 玩家1界面展示
+![image](https://github.com/chinachinachina/moves-like-jagger/blob/master/IMG/pic-2.png)
+
+3. 结果判定
+* 玩家1界面展示
+![image](https://github.com/chinachinachina/moves-like-jagger/blob/master/IMG/pic-4.png)
+
+* 玩家2界面展示
+![image](https://github.com/chinachinachina/moves-like-jagger/blob/master/IMG/pic-5.png)
+
+4. 玩家退出
+* 玩家2游戏中途退出，玩家1界面展示
+![image](https://github.com/chinachinachina/moves-like-jagger/blob/master/IMG/pic-6.png)
