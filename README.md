@@ -71,29 +71,29 @@ cc -o client -lpthread -lcurses client.c
 # 游戏展示
 1. 玩家等待
 * 玩家1界面展示
-<div align=center>
-<img src="IMG/pic-1.png" width="60%">
+<div align="center">
+<img src="IMG/pic-1.png" width="55%">
 </div>
 
 2. 游戏进行
 * 玩家1界面展示
-<div align=center>
-<img src="IMG/pic-2.png" width="60%">
+<div align="center">
+<img src="IMG/pic-2.png" width="55%">
 </div>
 
 3. 结果判定
 * 玩家1界面展示
-<div align=center>
-<img src="IMG/pic-4.png" width="60%">
+<div align="center">
+<img src="IMG/pic-4.png" width="55%">
 </div>
 
 * 玩家2界面展示
-<div align=center>
-<img src="IMG/pic-5.png" width="60%">
+<div align="center">
+<img src="IMG/pic-5.png" width="55%">
 </div>
 
 4. 玩家退出
 * 玩家2游戏中途退出，玩家1界面展示
-<div align=center>
-<img src="IMG/pic-6.png" width="60%">
+<div align="center">
+<img src="IMG/pic-6.png" width="55%">
 </div>
