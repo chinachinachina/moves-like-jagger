@@ -67,33 +67,3 @@ cc -o client -lpthread -lcurses client.c
 6. 若飞行物到达下边界，则游戏结束（**游戏合作约束**）。
 7. 游戏结束时，双方客户端将显示各自的游戏结果，游戏结果以双方在游戏结束时的积分进行判定，有胜利、失败、打平三种游戏结果。
 8. 任意一方在游戏途中可按**q**键直接退出游戏。同一游戏房间内另外一名玩家的客户端将显示对手退出游戏的消息，游戏界面停止，按**q**可退出客户端。
-
-# 游戏展示
-1. 玩家等待
-* 玩家1界面展示
-<div align="center">
-<img src="IMG/pic-1.png" width="55%">
-</div>
-
-2. 游戏进行
-* 玩家1界面展示
-<div align="center">
-<img src="IMG/pic-2.png" width="55%">
-</div>
-
-3. 结果判定
-* 玩家1界面展示
-<div align="center">
-<img src="IMG/pic-4.png" width="55%">
-</div>
-
-* 玩家2界面展示
-<div align="center">
-<img src="IMG/pic-5.png" width="55%">
-</div>
-
-4. 玩家退出
-* 玩家2游戏中途退出，玩家1界面展示
-<div align="center">
-<img src="IMG/pic-6.png" width="55%">
-</div>
